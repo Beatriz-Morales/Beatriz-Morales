@@ -25,12 +25,13 @@ I bridge the gap between data science and real-world manufacturing operations �
 
 | Repository | Methods | Business Context |
 |---|---|---|
-| [🏠 Real Estate Price Prediction](./real-estate-regression) | Multiple linear regression, polynomial terms, backward elimination, RMSE, AIC | Predicted price-per-sqft using transit access, convenience stores, and location |
-| [🚲 Bike Share Demand Forecasting](./bikeshare-regression) | Linear regression, interaction terms, log transformation, weather segmentation | Quantified weather's effect on daily rental demand |
-| [📉 Customer Churn Classification](./customer-churn-classification) | Decision trees, conditional inference trees, random forest, ROC-AUC | Predicted telecom churn with 95%+ accuracy using Random Forest |
-| [🍷 Wine Quality Neural Network](./wine-quality-neural-net) | Neural network (neuralnet), feature scaling, MSE, dummy encoding | Predicted wine quality scores from chemical properties |
-| [😊 Happiness Survey Analysis](./happiness-survey-analysis) | Multiple linear regression, logistic regression, ROC-AUC, confusion matrix | Modeled neighborhood satisfaction's effect on life happiness |
-| [⚖️ Obesity & Snacking ANCOVA](./obesity-ancova) | ANCOVA, emmeans, planned contrasts, ggplot2 | Tested whether snacking frequency predicts weight after controlling for age |
+| [📊 First Time Right Quality Release Analytics](https://github.com/Beatriz-Morales/first-time-right-quality-release-analytics) | Power BI, exception monitoring, quality decision support | Used 001B exception logic to support First Time Right vs. Non-First Time Right release decisions |
+| [📉 Customer Churn Classification](https://github.com/Beatriz-Morales/customer-churn-classification) | Decision trees, conditional inference trees, random forest, ROC-AUC | Predicted telecom churn with 95%+ accuracy using Random Forest |
+| [🍷 Wine Quality Neural Network](https://github.com/Beatriz-Morales/wine-quality-neural-network) | Neural network (neuralnet), feature scaling, MSE, dummy encoding | Predicted wine quality scores from chemical properties |
+| [🏠 Real Estate Price Prediction](https://github.com/Beatriz-Morales/real-estate-price-prediction) | Multiple linear regression, polynomial terms, backward elimination, RMSE, AIC | Predicted price-per-sqft using transit access, convenience stores, and location |
+| [🚲 Bike Share Demand Forecasting](https://github.com/Beatriz-Morales/bike-share-demand-forecasting) | Linear regression, interaction terms, log transformation, weather segmentation | Quantified weather's effect on daily rental demand |
+| [😊 Happiness Survey Analysis](https://github.com/Beatriz-Morales/happiness-survey-analysis) | Multiple linear regression, logistic regression, ROC-AUC, confusion matrix | Modeled neighborhood satisfaction's effect on life happiness |
+| [⚖️ Obesity & Snacking ANCOVA](https://github.com/Beatriz-Morales/obesity-snacking-ancova) | ANCOVA, emmeans, planned contrasts, ggplot2 | Tested whether snacking frequency predicts weight after controlling for age |
 
 ---
 
