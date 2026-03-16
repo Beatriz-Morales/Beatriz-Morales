@@ -1,6 +1,6 @@
 # Hi, I'm Beatriz Morales 👋
 
-**MBA Candidate · Business Data Analytics | Senior Quality Systems Analyst @ Nestlé Purina**
+**MBA Candidate · Business Data Analytics | Senior Quality Analyst @ Nestlé Purina**
 
 I bridge the gap between data science and real-world manufacturing operations — turning messy operational data into measurable outcomes. Bilingual (English/Spanish), Beta Gamma Sigma inductee, and 8+ years delivering quality analytics inside Fortune 500 food manufacturing environments.
 
@@ -57,7 +57,7 @@ Beta Gamma Sigma (2025) · National Society of Leadership and Success (2026)
 [![Email](https://img.shields.io/badge/Email-beamorales0719%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beamorales0719@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Edmond%2C%20OK-0A66C2?style=flat&logo=googlemaps&logoColor=white)]()
 
-> *"Data is most powerful when it reflects the real work happening on the floor."*
+> *"In today’s business world, quality earns trust, and data turns that trust into smarter decisions."*
 
 <!--
 **Beatriz-Morales/Beatriz-Morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
