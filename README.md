@@ -56,7 +56,7 @@ Beta Gamma Sigma (2025) · National Society of Leadership and Success (2026)
 [![Email](https://img.shields.io/badge/Email-beamorales0719%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beamorales0719@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Edmond%2C%20OK-0A66C2?style=flat&logo=googlemaps&logoColor=white)]()
 
-> *"Data is most powerful when it reflects the real work happening on the floor."*## Hi there 👋
+> *"Data is most powerful when it reflects the real work happening on the floor."*
 
 <!--
 **Beatriz-Morales/Beatriz-Morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
