@@ -1,4 +1,4 @@
-# Hi, I'm Beatriz Morales 👋
+# Hi, I'm Beatriz Richardson 👋
 
 **MBA Candidate · Business Data Analytics | Senior Quality Analyst @ Nestlé Purina**
 
